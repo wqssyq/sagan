@@ -1,4 +1,5 @@
 gradle :sagan-site:bootRun
+
 gradle :sagan-renderer:bootRun
 
 ## Sagan: the spring.io site and reference application
